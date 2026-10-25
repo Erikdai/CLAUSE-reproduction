@@ -37,8 +37,8 @@
 需要 Python 3.11 或更高版本。
 
 ```bash
-git clone https://github.com/Erikdai/CLAUSE-reproduction.git
-cd CLAUSE-reproduction
+git clone https://github.com/Erikdai/clause.git
+cd clause
 pip install -r requirements.txt
 cp .env.example .env    # 填写大模型 API
 ```

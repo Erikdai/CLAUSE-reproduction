@@ -37,8 +37,8 @@ Official implementation of *CLAUSE: Agentic Neuro-Symbolic Knowledge Graph Reaso
 Python 3.11 or newer.
 
 ```bash
-git clone https://github.com/Erikdai/CLAUSE-reproduction.git
-cd CLAUSE-reproduction
+git clone https://github.com/Erikdai/clause.git
+cd clause
 pip install -r requirements.txt
 cp .env.example .env    # fill in your LLM API
 ```
