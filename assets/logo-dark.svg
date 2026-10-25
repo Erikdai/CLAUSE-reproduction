@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="104" viewBox="0 0 560 104" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5c7cfa"/>
+      <stop offset="1" stop-color="#4263eb"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="96" height="96" rx="24" fill="url(#bg)"/>
+  <line x1="28" y1="28" x2="76" y2="28" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="28" x2="52" y2="52" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3" stroke-linecap="round"/>
+  <line x1="76" y1="28" x2="76" y2="76" stroke="#ffffff" stroke-opacity="0.55" stroke-width="3" stroke-linecap="round"/>
+  <line x1="52" y1="52" x2="28" y2="76" stroke="#ffffff" stroke-opacity="0.45" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <line x1="28" y1="28" x2="52" y2="52" stroke="#ff6b6b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="52" y1="52" x2="76" y2="76" stroke="#ff6b6b" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="76" cy="28" r="9" fill="#ffffff" fill-opacity="0.9"/>
+  <circle cx="28" cy="76" r="7.5" fill="url(#bg)" stroke="#ffffff" stroke-opacity="0.45" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <circle cx="28" cy="28" r="10" fill="#ff6b6b"/>
+  <circle cx="52" cy="52" r="10" fill="#ff6b6b"/>
+  <circle cx="76" cy="76" r="10" fill="#ff6b6b"/>
+  <text x="124" y="58" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="700" fill="#f3f4f6" letter-spacing="-0.5">CLAUSE</text>
+  <text x="126" y="84" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="500" fill="#9ca3af" letter-spacing="1.5">AGENTIC NEURO-SYMBOLIC KG REASONING</text>
+</svg>
